@@ -1,0 +1,13 @@
+{
+  "name": "patient-management",
+  "version": "1.0.0",
+  "description": "Hospital Patient Management Web Application",
+  "main": "httpServer.js",
+  "scripts": {
+    "start": "node httpServer.js",
+    "express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
